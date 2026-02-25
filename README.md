@@ -4,3 +4,6 @@ extern lettertype toegevoegd en toegepast in de website, navigatie aangepast, ti
 
 ## 03/02/2026
 Engelse pagina "about us" toegevoegd, verleden van mclaren toegevoegd, externe links naar sociale media, navigatie venster uitgelijnd
+
+## 25/02/2026
+Start pagina achtergrond gegeven + navigatie gegeven naar de andere paginas + voorwoord toegevoegd, Modellen toegevoegd, Verleden verder aangevuld
