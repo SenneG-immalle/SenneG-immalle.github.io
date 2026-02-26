@@ -7,3 +7,6 @@ Engelse pagina "about us" toegevoegd, verleden van mclaren toegevoegd, externe l
 
 ## 25/02/2026
 Start pagina achtergrond gegeven + navigatie gegeven naar de andere paginas + voorwoord toegevoegd, Modellen toegevoegd, Verleden verder aangevuld
+
+## 26/02/2026
+Contact pagina aangevuld met gegevens en FAQ, Responsiviteit toegevoegd
