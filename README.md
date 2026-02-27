@@ -10,3 +10,6 @@ Start pagina achtergrond gegeven + navigatie gegeven naar de andere paginas + vo
 
 ## 26/02/2026
 Contact pagina aangevuld met gegevens en FAQ, Responsiviteit toegevoegd
+
+## 27/02/2026
+Responsiviteit aan contactpagina toegevoegd
